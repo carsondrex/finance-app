@@ -225,3 +225,4 @@ C:\Users\thund\OneDrive\Documents\Github\NET\FinanceApp\obj\Debug\net9.0\Finance
 C:\Users\thund\OneDrive\Documents\Github\NET\FinanceApp\obj\Debug\net9.0\ref\FinanceApp.dll
 C:\Users\thund\OneDrive\Documents\Github\NET\FinanceApp\bin\Debug\net9.0\package-lock.json
 C:\Users\thund\OneDrive\Documents\Github\NET\FinanceApp\bin\Debug\net9.0\package.json
+C:\Users\thund\OneDrive\Documents\Github\NET\FinanceApp\obj\Debug\net9.0\FinanceApp.sourcelink.json
