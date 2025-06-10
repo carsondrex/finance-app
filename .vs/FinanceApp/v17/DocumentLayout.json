@@ -1,0 +1,158 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\thund\\OneDrive\\Documents\\Github\\NET\\FinanceApp\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{7518878E-2499-4378-A3F0-9BC827688BDB}|FinanceApp.csproj|c:\\users\\thund\\onedrive\\documents\\github\\net\\financeapp\\controllers\\expensescontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{7518878E-2499-4378-A3F0-9BC827688BDB}|FinanceApp.csproj|solutionrelative:controllers\\expensescontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7518878E-2499-4378-A3F0-9BC827688BDB}|FinanceApp.csproj|c:\\users\\thund\\onedrive\\documents\\github\\net\\financeapp\\views\\expenses\\create.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{7518878E-2499-4378-A3F0-9BC827688BDB}|FinanceApp.csproj|solutionrelative:views\\expenses\\create.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7518878E-2499-4378-A3F0-9BC827688BDB}|FinanceApp.csproj|c:\\users\\thund\\onedrive\\documents\\github\\net\\financeapp\\views\\expenses\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{7518878E-2499-4378-A3F0-9BC827688BDB}|FinanceApp.csproj|solutionrelative:views\\expenses\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7518878E-2499-4378-A3F0-9BC827688BDB}|FinanceApp.csproj|c:\\users\\thund\\onedrive\\documents\\github\\net\\financeapp\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{7518878E-2499-4378-A3F0-9BC827688BDB}|FinanceApp.csproj|solutionrelative:program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7518878E-2499-4378-A3F0-9BC827688BDB}|FinanceApp.csproj|c:\\users\\thund\\onedrive\\documents\\github\\net\\financeapp\\data\\financeappcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{7518878E-2499-4378-A3F0-9BC827688BDB}|FinanceApp.csproj|solutionrelative:data\\financeappcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7518878E-2499-4378-A3F0-9BC827688BDB}|FinanceApp.csproj|c:\\users\\thund\\onedrive\\documents\\github\\net\\financeapp\\migrations\\20250610011410_initial migration.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{7518878E-2499-4378-A3F0-9BC827688BDB}|FinanceApp.csproj|solutionrelative:migrations\\20250610011410_initial migration.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7518878E-2499-4378-A3F0-9BC827688BDB}|FinanceApp.csproj|c:\\users\\thund\\onedrive\\documents\\github\\net\\financeapp\\models\\expense.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{7518878E-2499-4378-A3F0-9BC827688BDB}|FinanceApp.csproj|solutionrelative:models\\expense.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7518878E-2499-4378-A3F0-9BC827688BDB}|FinanceApp.csproj|c:\\users\\thund\\onedrive\\documents\\github\\net\\financeapp\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{7518878E-2499-4378-A3F0-9BC827688BDB}|FinanceApp.csproj|solutionrelative:appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 3,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{cce594b6-0c39-4442-ba28-10c64ac7e89f}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Create.cshtml",
+              "DocumentMoniker": "C:\\Users\\thund\\OneDrive\\Documents\\Github\\NET\\FinanceApp\\Views\\Expenses\\Create.cshtml",
+              "RelativeDocumentMoniker": "Views\\Expenses\\Create.cshtml",
+              "ToolTip": "C:\\Users\\thund\\OneDrive\\Documents\\Github\\NET\\FinanceApp\\Views\\Expenses\\Create.cshtml",
+              "RelativeToolTip": "Views\\Expenses\\Create.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABAAAAAIAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-06-10T19:01:11.113Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Index.cshtml",
+              "DocumentMoniker": "C:\\Users\\thund\\OneDrive\\Documents\\Github\\NET\\FinanceApp\\Views\\Expenses\\Index.cshtml",
+              "RelativeDocumentMoniker": "Views\\Expenses\\Index.cshtml",
+              "ToolTip": "C:\\Users\\thund\\OneDrive\\Documents\\Github\\NET\\FinanceApp\\Views\\Expenses\\Index.cshtml",
+              "RelativeToolTip": "Views\\Expenses\\Index.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAYAAAAbAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-06-10T01:18:47.966Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "ExpensesController.cs",
+              "DocumentMoniker": "C:\\Users\\thund\\OneDrive\\Documents\\Github\\NET\\FinanceApp\\Controllers\\ExpensesController.cs",
+              "RelativeDocumentMoniker": "Controllers\\ExpensesController.cs",
+              "ToolTip": "C:\\Users\\thund\\OneDrive\\Documents\\Github\\NET\\FinanceApp\\Controllers\\ExpensesController.cs",
+              "RelativeToolTip": "Controllers\\ExpensesController.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAQAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-10T01:16:53.902Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "20250610011410_initial migration.cs",
+              "DocumentMoniker": "C:\\Users\\thund\\OneDrive\\Documents\\Github\\NET\\FinanceApp\\Migrations\\20250610011410_initial migration.cs",
+              "RelativeDocumentMoniker": "Migrations\\20250610011410_initial migration.cs",
+              "ToolTip": "C:\\Users\\thund\\OneDrive\\Documents\\Github\\NET\\FinanceApp\\Migrations\\20250610011410_initial migration.cs",
+              "RelativeToolTip": "Migrations\\20250610011410_initial migration.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABAAAAARAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-10T01:14:10.868Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\thund\\OneDrive\\Documents\\Github\\NET\\FinanceApp\\Program.cs",
+              "RelativeDocumentMoniker": "Program.cs",
+              "ToolTip": "C:\\Users\\thund\\OneDrive\\Documents\\Github\\NET\\FinanceApp\\Program.cs",
+              "RelativeToolTip": "Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAgAAABVAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-10T01:08:05.393Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "appsettings.json",
+              "DocumentMoniker": "C:\\Users\\thund\\OneDrive\\Documents\\Github\\NET\\FinanceApp\\appsettings.json",
+              "RelativeDocumentMoniker": "appsettings.json",
+              "ToolTip": "C:\\Users\\thund\\OneDrive\\Documents\\Github\\NET\\FinanceApp\\appsettings.json",
+              "RelativeToolTip": "appsettings.json",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAkAAAAWAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2025-06-10T01:06:38.748Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "FinanceAppContext.cs",
+              "DocumentMoniker": "C:\\Users\\thund\\OneDrive\\Documents\\Github\\NET\\FinanceApp\\Data\\FinanceAppContext.cs",
+              "RelativeDocumentMoniker": "Data\\FinanceAppContext.cs",
+              "ToolTip": "C:\\Users\\thund\\OneDrive\\Documents\\Github\\NET\\FinanceApp\\Data\\FinanceAppContext.cs",
+              "RelativeToolTip": "Data\\FinanceAppContext.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAwAAAAPAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-10T00:55:29.686Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "Expense.cs",
+              "DocumentMoniker": "C:\\Users\\thund\\OneDrive\\Documents\\Github\\NET\\FinanceApp\\Models\\Expense.cs",
+              "RelativeDocumentMoniker": "Models\\Expense.cs",
+              "ToolTip": "C:\\Users\\thund\\OneDrive\\Documents\\Github\\NET\\FinanceApp\\Models\\Expense.cs",
+              "RelativeToolTip": "Models\\Expense.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAsAAABaAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-10T00:50:22.327Z"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
