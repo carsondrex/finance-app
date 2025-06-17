@@ -5,6 +5,3 @@
 2. Open project in Visual Studio and wait for secure connection to database.
 3. If database does not connect automatically, click reload.
 4. Click Run. Homepage will automatically open in browser.
-
-## Demo
-[Demo Video Link](https://youtu.be/vZGyukctpMw)
